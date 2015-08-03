@@ -1,0 +1,24 @@
+Data sources:
+World Bank (main data source)
+http://microdata.worldbank.org/index.php/catalog/2244/related_materials
+
+UN (for ISIC catalog):
+http://unstats.un.org/unsd/cr/registry/regcst.asp?Cl=27
+
+Bangladesh  boundary data:
+
+
+http://www.humanitarianresponse.info/en/applications/data/datasets/locations/bangladesh
+
+Sources of information for R:
+
+
+http://stackoverflow.com/questions/29037851/how-do-i-plot-us-cities-using-ggplot
+http://bl.ocks.org/prabhasp/raw/5030005/
+http://www.kevjohnson.org/making-maps-in-r/
+http://www.geonames.org/BD/largest-cities-in-bangladesh.html city population bangladesh
+http://stackoverflow.com/questions/14563989/force-r-to-stop-plotting-abbreviated-axis-labels-e-g-1e00-in-ggplot2
+http://mathalope.co.uk/2015/02/28/creating-boxplots-in-r-with-limits/http://mathalope.co.uk/2015/02/28/creating-boxplots-in-r-with-limits/
+http://docs.ggplot2.org/0.9.3.1/coord_flip.html
+
+http://stackoverflow.com/questions/10911057/adding-a-simple-lm-trend-line-to-a-ggplot-boxplot
